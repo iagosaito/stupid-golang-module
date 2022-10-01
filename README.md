@@ -1,4 +1,3 @@
-[![Go Reference v1](https://pkg.go.dev/badge/github.com/iagosaito/stupid-golang-module.svg)](https://pkg.go.dev/github.com/iagosaito/stupid-golang-module)
 [![Go Reference v2](https://pkg.go.dev/badge/github.com/iagosaito/stupid-golang-module/v2.svg)](https://pkg.go.dev/github.com/iagosaito/stupid-golang-module/v2)
 # Stupid Golang Module
 
