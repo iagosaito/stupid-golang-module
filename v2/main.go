@@ -7,8 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Stupid Golang Module")
+	fmt.Println("Stupid Golang Module v2")
 
-	fmt.Println(stupidpackage.SaySomethingStupid())
-	stupidpackage.TellSomeoneStupid("Brian")
+	fmt.Println(stupidpackage.GetSomethingStupid(11))
 }
