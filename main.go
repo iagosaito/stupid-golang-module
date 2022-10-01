@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("Stupid Golang Module")
 
 	fmt.Println(stupidpackage.SaySomethingStupid())
+	stupidpackage.TellSomeoneStupid("Brian")
 }
